@@ -1,0 +1,5 @@
+{
+  "name": "Terra 3D Interativa",
+  "description": "Uma visualização 3D interativa do planeta Terra usando React Three Fiber, pronta para testes de implantação.",
+  "requestFramePermissions": []
+}
